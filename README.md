@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **React , MERN**
 
-- 📫 How to reach me **97.m.kabir@gmail.com**
+- 📫 How to reach me **m.mubashirkabir.97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14m5j-Fr3dpVYCmJtFlUfHgfWD-QbzBqQ/view?usp=sharing](https://drive.google.com/file/d/14m5j-Fr3dpVYCmJtFlUfHgfWD-QbzBqQ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14m5j-Fr3dpVYCmJtFlUfHgfWD-QbzBqQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
