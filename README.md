@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir-kabir&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir-kabir" /> </p>
 
-- 🌱 I’m currently learning **Complete Web Development Course with Jhankar Mahbub**
+- 🌱 I have just completed **'Complete Web Development Course with Jhankar Mahbub'**
 
 - 💬 Ask me about **React , MERN**
 
