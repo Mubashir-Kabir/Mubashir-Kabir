@@ -1,4 +1,4 @@
-![Header](./banner.jpg)
+![Header](./banner-1.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Mubashir Kabir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Complete Web Development Course with Jhankar Mahbub**
 
-- 💬 Ask me about **React , MEARN**
+- 💬 Ask me about **React , MERN**
 
 - 📫 How to reach me **97.m.kabir@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GKMVTq4XeZUwMx3D_pmnmXTpnK7-6afn/view?usp=sharing](https://drive.google.com/file/d/1GKMVTq4XeZUwMx3D_pmnmXTpnK7-6afn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14m5j-Fr3dpVYCmJtFlUfHgfWD-QbzBqQ/view?usp=sharing](https://drive.google.com/file/d/14m5j-Fr3dpVYCmJtFlUfHgfWD-QbzBqQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
